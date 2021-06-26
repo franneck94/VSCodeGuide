@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "[cpp]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "[python]": {
+        "editor.wordBasedSuggestions": false,
+        "editor.formatOnSave": false
+    }
+}

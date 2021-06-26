@@ -1,12 +1,13 @@
+
 #include <stdio.h>
 
-int mian()
+int main()
 {
     printf("Hello You!");
 
     int i_MyVariable1;
-    int i_MyVariable2;
-    int i_MyVariable3;
+    int i_MyVariable2 = 30;
+    int i_MyVariable3 = 30;
 
     // i_MyVariable1
 
