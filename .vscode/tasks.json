@@ -8,16 +8,6 @@
             "id": "Age",
             "default": "-1",
             "description": "Enter your age"
-        },
-        {
-            "type": "pickString",
-            "id": "Mode",
-            "options": [
-                "Mode 1",
-                "Mode 2"
-            ],
-            "default": "Mode 1",
-            "description": "Enter the mode"
         }
     ],
     "tasks": [
